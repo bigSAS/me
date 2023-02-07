@@ -34,7 +34,7 @@
 | css | ★ ★ ★ |
 | postgresql | ★ ★ ★ ★ |
 | inne db sql | ★ ★ ★ |
-| zarządzanie i konfiguracja CICD (docker/jenkins/gitlab ect) projektu z aplikacją | ★ ★ ★ ★ ★ |
+| zarządzanie i konfiguracja CICD (docker/jenkins/gitlab etc) projektu z aplikacją | ★ ★ ★ ★ ★ |
 | znajomość architektury / projektowanie rozwiązań | ★ ★ ★ |
 | unit testing | ★ ★ ★ ★ ★ |
 
@@ -59,3 +59,5 @@
 | praca w SCRUM | ★ ★ ★ ★ |
 | przygotowywanie warsztatów / szkoleń | ★ ★ ★ ★ |
 | przekazywanie wiedzy | ★ ★ ★ ★ |
+| mentoring / code review | ★ ★ ★ ★ ★ |
+
